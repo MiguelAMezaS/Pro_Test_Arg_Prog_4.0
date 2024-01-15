@@ -12,6 +12,5 @@
 ## Analizar el request Entries y su respuesta. Hacer una captura de pantalla y agregarle
 ## flechas que unan el detalle de un item (categoría, descripción, imagen, precio y título) y su correspondencia con lo que se muestra en pantalla.
 ## 8. Utilizar las herramientas del desarrollador para ejecutar una auditoría de performance o accesibilidad.
-## 9. En base a esos resultados obtenidos, cargar una mejora o defecto en Mantis.
 
 # Los resultados se visualizan en el pdf del repositorio
